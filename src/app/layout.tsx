@@ -20,14 +20,15 @@ export const metadata: Metadata = {
     "Tailwind CSS",
     "Server Components",
     "Radix UI",
+    "Shadcn",
   ],
   authors: [
     {
-      name: "shadcn",
-      url: "https://shadcn.com",
+      name: "hanumnathnbalu",
+      url: "https://hanumanth-portfolio.vercel.app/theme",
     },
   ],
-  creator: "shadcn",
+  creator: "hanumanthnablu",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -49,7 +50,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [siteConfig.ogImage],
-    creator: "@shadcn",
+    creator: "@hanumanthnbalu",
   },
   icons: {
     icon: "/favicon.ico",

@@ -1,7 +1,7 @@
 export const siteConfig = {
     name: "hanumanthnbalu",
     url: "https://hanumanthnbalu.vercel.app",
-    ogImage: "https://ui.shadcn.com/og.jpg",
+    ogImage: "https://hanumanth-portfolio.vercel.app/og.jpg",
     description:
       "hanumanthnbalu portfolio.",
     links: {
