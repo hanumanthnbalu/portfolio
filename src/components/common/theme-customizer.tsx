@@ -72,7 +72,7 @@ export function ThemeCustomizer() {
                 }
 
                 return (
-                  <TooltipProvider delayDuration={0}>
+                  <TooltipProvider key={theme.name} delayDuration={0}>
                     <Tooltip key={theme.name}>
                       <TooltipTrigger asChild>
                         <button
